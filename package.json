@@ -1,6 +1,6 @@
 {
   "name": "@vinayg-cp/dummy-navbar-counter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "dist/index.js",
   "license": "MIT",
   "publishConfig": {

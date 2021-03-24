@@ -27,7 +27,6 @@ const App: React.FC<ICounterProps> = ({ className = '' }) => {
     useEffect(() => {
         const interval = setInterval(() => {
             if (count > 99) return setCount(0)
-
             setCount(count + 1)
         }, 1000)
 
